@@ -1,4 +1,4 @@
-# Hello, world
+# Hello, world!
 
 ### The following header is the blog's description
 
